@@ -9,5 +9,5 @@ Clone the repo
 ```node server.js```
 
 #Open Browser
-```http://localhost:8080```
+http://localhost:8080
 
