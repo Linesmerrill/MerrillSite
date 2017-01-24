@@ -10,6 +10,14 @@
   letter-spacing: 0.0588235em;
 }
 
+.sub-title {
+color: whitesmoke;
+font-size: 6em;
+letter-spacing: 0.0588235em;
+  margin-left: 4rem;
+    margin-top: 0;
+}
+
 li {
   list-style-type: none;
 }
@@ -28,6 +36,15 @@ li > a:hover, a:focus{
   margin-top: 0.4rem;
 }
 
+.body-text {
+  color: #dadada;
+  font-family: "Alegreya Sans SC";
+  font-size: 1.7em;
+  letter-spacing: 1px;
+  padding: 1rem;
+  margin-top: 0.4rem;
+}
+
 .logo {
   font-size: 2em;
   margin-top: 3rem;
@@ -38,4 +55,21 @@ li > a:hover, a:focus{
   padding-top: 1rem;
   padding-bottom: 1rem;
   margin-top: 0.4rem;
+}
+
+.background-body {
+  background:rgba(1,1,1,0.7)
+}
+
+.title-space-bottom {
+  margin-top: 27rem;
+  color: whitesmoke;
+  font-size: 6em;
+  letter-spacing: 0.0588235em;
+  margin-bottom: 8rem;
+}
+
+.computer-image {
+  width: 25%;
+  height: 25%;
 }
